@@ -1,0 +1,92 @@
+{
+    "list1":{
+        "serial number":1,
+        "Name": "Rice",
+        "Quantity": 25,
+        "Unit":"Kg",
+        "Department":"Cereals",
+        "Note": "ponni"
+    },
+    "list2":{
+        "serial number":2,
+        "Name": "Wheat",
+        "Quantity": 5,
+        "Unit":"Kg",
+        "Department":"Cereals",
+        "Note": "good"
+    },
+    "list3":{
+        "serial number":3,
+        "Name": "Ragi",
+        "Quantity": 2,
+        "Unit":"Kg",
+        "Department":"Cereals",
+        "Note": "good"
+    },
+    "list4":{
+        "serial number":4,
+        "Name": "Tomato",
+        "Quantity": 2,
+        "Unit":"Kg",
+        "Department":"Vegetables",
+        "Note": "medium sized & good ones"
+    },
+    "list5":{
+        "serial number":5,
+        "Name": "lady finger",
+        "Quantity": 1,
+        "Unit":"Kg",
+        "Department":"Vegetables",
+        "Note": "good"
+    },
+    "list6":{
+        "serial number":6,
+        "Name": "Manago",
+        "Quantity": 2,
+        "Unit":"Kg",
+        "Department":"Fruits",
+        "Note": "Ripened ones"
+    },
+    "list7":{
+        "serial number":7,
+        "Name": "Pen",
+        "Quantity": 1,
+        "Unit":"packet",
+        "Department":"Stationary",
+        "Note": " blue cello"
+    },
+    "list8":{
+        "serial number":8,
+        "Name": "Book",
+        "Quantity":1,
+        "Unit":"dozen",
+        "Department":"Stationary",
+        "Note": "long size"
+    },
+    "list9":{
+        "serial number":8,
+        "Name": "Juice",
+        "Quantity":3,
+        "Unit":"litre",
+        "Department":"beevarage",
+        "Note": " orange juice of 1L"
+    },
+    "list10":{
+        "serial number":10,
+        "Name": "milk",
+        "Quantity":1,
+        "Unit":"litre",
+        "Department":"NA",
+        "Note": "amul"
+    },
+    "list11":{
+        "serial number":8,
+        "Name": "Egg",
+        "Quantity":2,
+        "Unit":"dozen",
+        "Department":"NA",
+        "Note": "NA"
+    }
+
+}
+
